@@ -40,7 +40,7 @@
 
 1.准备一台linux环境的服务器；
 
-2.在服务器上安装最新版本的nodejs和npm；
+2.在服务器上安装最新版本的nodejs和npm（这一步请自行谷歌or百度云云）；
 
 3.用npm安装 fs,node-fetch 以及 forever 共 3 个模块，参考命令如下：
 
