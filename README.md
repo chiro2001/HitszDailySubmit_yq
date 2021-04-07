@@ -43,6 +43,7 @@
 2.在服务器上安装最新版本的nodejs和npm；
 
 3.用npm安装 fs,node-fetch 以及 forever 共 3 个模块，参考命令如下：
+
   `npm install fs`
   
   `npm install node-fetch`
