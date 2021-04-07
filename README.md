@@ -55,7 +55,8 @@
   };
   ```
   
-5.使用命令'forever start demo.js'来永久运行该脚本。
+5.使用命令`forever start demo.js`来永久运行该脚本。
+
 
 其他事项：
 
