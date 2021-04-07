@@ -63,7 +63,7 @@
 
 ### 其他事项：
 
-1.停止该脚本可以使用命令`forever stop demo.js`；
+1.停止该脚本可以使用命令`forever stop demo.js`；详细内容可自行了解nodejs的forever模块功能；
 
 2.为防止网络拥堵填报失败，该脚本将每间隔6h进行一次上报尝试；
 
