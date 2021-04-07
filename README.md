@@ -43,17 +43,17 @@
 2.在服务器上安装最新版本的nodejs和npm；
 
 3.用npm安装 fs,node-fetch 以及 forever 共 3 个模块，参考命令如下：
-  'npm install fs'
-  'npm install node-fetch'
-  'npm install forever -g'
+  `npm install fs`
+  `npm install node-fetch`
+  `npm install forever -g`
   
 4.编辑脚本，在第5行和第6行写入用户名和密码，正确的填写格式如下：
-  ···
+  ```
   var info = {
 	  uid: '200110702',
 	  pwd: '123456'
   };
-  ···
+  ```
   
 5.使用命令'forever start demo.js'来永久运行该脚本。
 
