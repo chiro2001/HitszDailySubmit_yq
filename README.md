@@ -44,7 +44,9 @@
 
 3.用npm安装 fs,node-fetch 以及 forever 共 3 个模块，参考命令如下：
   `npm install fs`
+  
   `npm install node-fetch`
+  
   `npm install forever -g`
   
 4.编辑脚本，在第5行和第6行写入用户名和密码，正确的填写格式如下：
